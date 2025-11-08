@@ -78,7 +78,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/silversylvan83/silversylvan83/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/silversylvan83/silversylvan83/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
